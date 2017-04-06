@@ -4,6 +4,8 @@ import com.bigsun.www.mylibrary.lgkv.interf.Storage;
 
 /**
  * Created by wudi on 17-4-6.
+ * TODO 这里未写完。。。
+ * <p>数据库的读写逻辑</p>
  */
 
 public class LGDataBaseStorage implements Storage {

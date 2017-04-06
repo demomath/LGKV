@@ -1,5 +1,8 @@
 package com.bigsun.www.mylibrary.lgkv;
 
+/**
+ * 序列化的配置类
+ */
 public final class DataInfo {
 
   public static final char TYPE_OBJECT = '0';

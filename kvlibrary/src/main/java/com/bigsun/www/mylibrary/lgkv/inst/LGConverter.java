@@ -15,10 +15,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Concrete implementation of encoding and decoding.
- * List types will be encoded/decoded by parser
- * Serializable types will be encoded/decoded object stream
- * Not serializable objects will be encoded/decoded by parser
+ * T 和 String 的转换
  */
 public final class LGConverter implements Converter {
 

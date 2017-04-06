@@ -8,9 +8,8 @@ import com.bigsun.www.mylibrary.lgkv.utils.LGUtils;
 
 /**
  * Created by wudi on 17-4-6.
+ * <p>由构造器创建对象</p>
  *
- *
- * 由构造器创建对象
  */
 
 public final class LG {

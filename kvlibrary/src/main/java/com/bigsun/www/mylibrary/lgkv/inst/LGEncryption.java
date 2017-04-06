@@ -17,13 +17,14 @@ public class LGEncryption implements Encryption {
   }
 
   /**
-   * 加密逻辑
+   * 加密逻
    * @param key   is the given key
    * @param plainText
    * @return
    * @throws Exception
    */
   @Override public String encrypt(String key, String plainText) throws Exception {
+    //// FIXME: 17-4-6  这里添加自己的加密
     return plainText;
   }
 
@@ -35,6 +36,7 @@ public class LGEncryption implements Encryption {
    * @throws Exception
    */
   @Override public String decrypt(String key, String cipherText) throws Exception {
+    //// FIXME: 17-4-6  自己的解密
     return cipherText;
   }
 

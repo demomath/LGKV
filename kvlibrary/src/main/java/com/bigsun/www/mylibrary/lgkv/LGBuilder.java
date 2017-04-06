@@ -20,6 +20,7 @@ import com.google.gson.Gson;
 
 /**
  * Created by wudi on 17-4-6.
+ * <p>构造器</p>
  */
 
 public class LGBuilder {
